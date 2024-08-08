@@ -18,9 +18,7 @@
 - Versión de Java, etc.
 
 ### INSTALACION
-- ¿Cómo instalar el ambiente de desarrollo?
-- ¿Cómo ejecutar pruebas manualmente?
-- ¿Cómo implementar la solución en producción en un ambiente local o en la nube como Heroku?
+En este caso no se necesita ningun tipo de instalacion ya que es una aplicacion web por lo cual es un software que se ejecuta en el navegador web, cumpliendo con los requerimientos mencionados en el apartado de requerimientos.
 
 ### CONFIGURACION
 - Configuración del producto (archivos de configuración).

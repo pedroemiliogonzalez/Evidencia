@@ -41,11 +41,12 @@ El usuario administrador debera configurar cada usuario creado a modo de perfile
 
 ### USO
 - Existen dos modos de uso Produccion y Soporte donde el perfil de produccion se encarga de crear los tickets y los perfiles de soporte se encargan de cerrar o asignar a grupo correcto.
-Para la creacion de los tickets para los usuario de produccion se mostrara la siguiente interfaz, en la cual se requieren obligatoriamente todos los campos para poder crear un ticket.
-
-Para reasignar, cancelar o tomar los tickets para los grupos de soporte se mostrara la siguiente interfaz, donde se tendran que llenar todos los campos obligatoriamente para poder reasignar el ticket.
   
-- La aplicacion sera administrada por los usuarios de IT a los cuales se tiene que realizar el requerimiento de crear nueva cuenta o asignar perfiles.
+     - Para la creacion de los tickets para los usuario de produccion se mostrara la siguiente interfaz, en la cual se requieren obligatoriamente todos los campos para poder crear un ticket.
+
+     - Para reasignar, cancelar o tomar los tickets para los grupos de soporte se mostrara la siguiente interfaz, donde se tendran que llenar todos los campos obligatoriamente para poder reasignar el ticket.
+  
+     - La aplicacion sera administrada por los usuarios de IT a los cuales se tiene que realizar el requerimiento de crear nueva cuenta o asignar perfiles.
 
 ### CONTRIBUCION
 - Guía de contribución para usuarios.

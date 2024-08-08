@@ -24,14 +24,20 @@ La aplicion DOWNTIME tiene un panel de registro de ticket de tiempo muerto el cu
 ### REQUERIMIENTOS
 - Acceso a red Celestica, mediante el server cmxapp69.
 - Tener instalado el navegador Google Chrome version 127.0.6533.90 en adelante.
-- Base de datos cmxapp27
+- Base de datos cmxapp27.
+- Cuenta creada en aplicacion desde un usuer administrador.
 
 ### INSTALACION
 En este caso no se necesita ningun tipo de instalacion ya que es una aplicacion web por lo cual es un software que se ejecuta en el navegador web, cumpliendo con los requerimientos mencionados en el apartado de requerimientos.
 
 ### CONFIGURACION
-- Configuración del producto (archivos de configuración).
-- Configuración de los requerimientos.
+El usuario administrador debera configurar cada usuario creado a modo de perfiles.
+- Produccion: El perfil podra crear, asignar, reasignar, cancelar y tomar tickets.
+- IT: El perfil sera de administrador, cuenta con todos los privilegios.
+- Ingenieria: El perfil solo puede reasignar, cancela y tomar tickets.
+- Procesos: El perfil solo puede reasignar, cancela y tomar tickets.
+- Calidad: El perfil solo puede reasignar, cancela y tomar tickets.
+- Materiales: El perfil solo puede reasignar, cancela y tomar tickets.
 
 ### USO
 - Sección de referencia para usuario final. Manual que se hará referencia para usuarios finales.

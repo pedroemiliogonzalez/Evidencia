@@ -22,7 +22,7 @@ La aplicion DOWNTIME tiene un panel de registro de ticket de tiempo muerto el cu
 
 
 ### REQUERIMIENTOS
--	Acceso a red Celestica, mediante el server cmxapp69.
+- Acceso a red Celestica, mediante el server cmxapp69.
 - Tener instalado el navegador Google Chrome version 127.0.6533.90 en adelante.
 - Base de datos cmxapp27
 
